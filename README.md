@@ -6,6 +6,7 @@
 | 주차 | 주제          | 문제 번호 & 링크  |
 |----|-------------|---------------------------------|
 | 1  | Stack, Queue, Deque  | [2003 수열의 합 2](https://www.acmicpc.net/problem/2003), [9012 괄호](https://www.acmicpc.net/problem/9012), [10799 쇠막대기](https://www.acmicpc.net/problem/10799), [16120 PPAP](https://www.acmicpc.net/problem/16120), [11003 최솟값 찾기](https://www.acmicpc.net/problem/16120) |
+| 2  | Binary Search  | [1920 수 찾기](boj.kr/1920), [10799 쇠막대기](https://www.acmicpc.net/problem/10799), [16120 PPAP](https://www.acmicpc.net/problem/16120), [11003 최솟값 찾기](https://www.acmicpc.net/problem/16120) |
 
 <br>
 
