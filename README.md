@@ -1,13 +1,13 @@
 # [AlKon_2023-1](https://www.acmicpc.net/group/workbook/17070)
-### AlKon 1기 중급 5조 스터디 문제 풀이 저장<br><br>
+### AlKon 1기 중급 문제 풀이 저장<br><br>
 ***
 
-## Problems
-| 주차 | 주제          | 문제 번호 & 링크  |
-|----|-------------|---------------------------------|
-| 1  | Stack, Queue, Deque  | [2003 수열의 합 2](https://www.acmicpc.net/problem/2003), [9012 괄호](https://www.acmicpc.net/problem/9012), [10799 쇠막대기](https://www.acmicpc.net/problem/10799), [16120 PPAP](https://www.acmicpc.net/problem/16120), [11003 최솟값 찾기](https://www.acmicpc.net/problem/16120), [17298 오큰수](https://www.acmicpc.net/problem/17298) |
-| 2  | Binary Search  | [1920 수 찾기](https://www.acmicpc.net/problem/1920), [2417 정수 제곱근](https://www.acmicpc.net/problem/2417), [1654 랜선 자르기](https://www.acmicpc.net/problem/1654), [24041 성싶당 밀키트](https://www.acmicpc.net/problem/24041), [1637 날카로운 눈](https://www.acmicpc.net/problem/1637) |
-
+## 주제
+| 주차 | 주제                  | 그룹 문제집                                                        | 문제 풀이 |
+|----|---------------------|---------------------------------------------------------------|-----------|
+| 1  | Stack, Queue, Deque | [1주차](https://www.acmicpc.net/group/workbook/view/17070/55462) | [Notion](https://ro-el.notion.site/b18cf43f8d5049ce9fadf307119bae91)|  
+| 2  | Binary Search       | [2주차](https://www.acmicpc.net/group/workbook/view/17070/55628) | [Notion](https://ro-el.notion.site/6171925cc9aa49798df0541ea5bfacc2)|  
+| 3  | Dynamic Programming | [3주차](https://www.acmicpc.net/group/workbook/view/17070/56034) | [Notion](https://ro-el.notion.site/DP-c90709b3091349b4aaa22268070053b7)|  
 <br>
 
 ***
