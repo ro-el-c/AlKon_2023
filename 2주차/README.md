@@ -9,10 +9,9 @@
 | 문제 번호 | 문제 제목                                             | 문제 풀이                                                                                                               |
 |-------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | 1920    | [수 찾기](https://www.acmicpc.net/problem/1920)      |                                                                                                                     |
-| 2417    | [정수 제곱근](https://www.acmicpc.net/problem/2417)    |         [README.md](..%2F3%EC%A3%BC%EC%B0%A8%2FREADME.md)                                                                                                            |
+| 2417    | [정수 제곱근](https://www.acmicpc.net/problem/2417)    |                                                                                                            |
 | 1654   | [랜선 자르기](https:/[README.md](..%2F3%EC%A3%BC%EC%B0%A8%2FREADME.md)/www.acmicpc.net/problem/1654)    |                                                                                                                     |
 | 24041   | [성싶당 밀키트](https://www.acmicpc.net/problem/24041)  | [Tistory](https://roel-yomojomo.tistory.com/entry/boj-24041-%EC%84%B1%EC%8B%B6%EB%8B%B9%EB%B0%80%ED%82%A4%ED%8A%B8) |
-| 1637   | [날카로운 눈](https://www.acmicpc.net/problem/1637)    | [Tistory](https://roel-yomojomo.tistory.com/entry/boj-1637-%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%EB%88%88)           |
 | 1637   | [날카로운 눈](https://www.acmicpc.net/problem/1637)    | [Tistory](https://roel-yomojomo.tistory.com/entry/boj-1637-%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%EB%88%88)           |
 | 11053   | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)    |   |
 | 12015   | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12053)    |   |
