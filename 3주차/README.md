@@ -25,5 +25,8 @@
 | 11057    | [오르막 수](https://www.acmicpc.net/problem/11057)   |                                                                                             |
 | 11726    | [2xN 타일링](https://www.acmicpc.net/problem/11726)   |                                                                                             |
 | 2156    | [포도주 시식](https://www.acmicpc.net/problem/2156)   |                                                                                             |
+| 2133    | [타일 채우기](https://www.acmicpc.net/problem/2133)   | [Tistory](https://roel-yomojomo.tistory.com/entry/%EB%B0%B1%EC%A4%80-2133-%ED%83%80%EC%9D%BC-%EC%B1%84%EC%9A%B0%EA%B8%B0-Java) |
+
+
 
 <br>
