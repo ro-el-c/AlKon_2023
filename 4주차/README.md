@@ -13,5 +13,6 @@
 | 7569    | [토마토](https://www.acmicpc.net/problem/7569)      |                                                                                                                     |
 | 7576    | [토마토](https://www.acmicpc.net/problem/7576)      |                                                                                                                     |
 | 11724    | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)      |                                                                                                                     |
+| 2252    | [줄 세우기](https://www.acmicpc.net/problem/2252)      |                                                                                                                     |
 
 <br>
