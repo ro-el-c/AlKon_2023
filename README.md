@@ -10,8 +10,8 @@
 | 3  | Dynamic Programming | [3주차](https://www.acmicpc.net/group/workbook/view/17070/56034) | [Notion](https://ro-el.notion.site/DP-c90709b3091349b4aaa22268070053b7)|  
 | 4  | Graph / DFS, BFS, 위상정렬(Topological Sort) | [4주차](https://www.acmicpc.net/group/workbook/view/17070/57071) | [Notion](https://ro-el.notion.site/DFS-BFS-641fa409a3914db38fed2af8aa24ec99)|  
 | 5  | Greedy | [5주차](https://www.acmicpc.net/group/workbook/view/17070/57343) | [Notion](https://ro-el.notion.site/4f3fa2e8ad8f4cc9a02835abcdd71fc1)|
-<br>
 | 6  | DSU, MST | [6주차](https://www.acmicpc.net/group/workbook/view/17070/57573) | [Notion](https://ro-el.notion.site/DSU-MST-f8c861455f2a456695ed6ac05382e5f5)|
+<br>
 
 ***
 ## Language
