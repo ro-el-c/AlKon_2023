@@ -12,5 +12,6 @@
 | 24391 | [귀찮은 해강이](https://www.acmicpc.net/problem/24391)      |                           |
 | 14621 | [나만 안되는 연애](https://www.acmicpc.net/problem/14621)      |                           |
 | 1939 | [중량제한](https://www.acmicpc.net/problem/1939)      |                           |
+| 17619 | [개구리 점프](https://www.acmicpc.net/problem/17619)      |                           |
 
 <br>
