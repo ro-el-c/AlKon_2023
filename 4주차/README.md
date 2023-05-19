@@ -16,5 +16,6 @@
 | 2252    | [줄 세우기](https://www.acmicpc.net/problem/2252)   |   |
 | 14567    | [선수 과목](https://www.acmicpc.net/problem/14567)   |   |
 | 1967    | [트리의 지름](https://www.acmicpc.net/problem/1967)  |   |
+| 1167    | [트리의 지름](https://www.acmicpc.net/problem/1167)  |   |
 
 <br>
