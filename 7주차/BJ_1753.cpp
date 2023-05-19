@@ -12,7 +12,16 @@ using namespace std;
 vector<pair<int, int>> vertex[MAX_NODE]; // 정점 정보 - 같은 정점을 향한 간선 여러 개 존재 가능
 int dist[MAX_NODE]; // 시작 정점부터 각 정점까지의 최단 거리
 priority_queue<pair<int, int>> pq;
-// 거리 정보: 거리, 도착 노드 / 거리에 대하여 오름차순
+// 거리 정보: 거리, 도착 노드
+
+/**
+ * 우선순위 큐
+ * 큰 값부터 top에 위치
+ * ex) 1 6 2 4 push -> (top) 6 4 2 1
+ * 
+ * -> 거리 저장시 -1을 곱하여, 거리가 가장 작은 값이 top에 위치하도록 한다.
+ * ex) 1 6 2 4 push -> (top) -1 -2 -4 -6
+ */
 
 void dijkstra(int start) {
     memset(dist, INF, sizeof(dist));
