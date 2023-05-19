@@ -6,14 +6,15 @@
 
 ## Problems
 
-| 문제 번호 | 문제 제목                                             | 문제 풀이                                                                                                               |
-|-------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| 1260    | [DFS와 BFS](https://www.acmicpc.net/problem/1260)      |                                                                                                                     |
-| 2667    | [단지번호붙이기](https://www.acmicpc.net/problem/2667)      |                                                                                                                     |
-| 7569    | [토마토](https://www.acmicpc.net/problem/7569)      |                                                                                                                     |
-| 7576    | [토마토](https://www.acmicpc.net/problem/7576)      |                                                                                                                     |
-| 11724    | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)      |                                                                                                                     |
-| 2252    | [줄 세우기](https://www.acmicpc.net/problem/2252)      |                                                                                                                     |
-| 14567    | [선수 과목](https://www.acmicpc.net/problem/14567)      |                                                                                                                     |
+| 문제 번호 | 문제 제목                                             | 문제 풀이    |
+|-------|---------------------------------------------------|----|
+| 1260    | [DFS와 BFS](https://www.acmicpc.net/problem/1260)   |    |
+| 2667    | [단지번호붙이기](https://www.acmicpc.net/problem/2667)   |    |
+| 7569    | [토마토](https://www.acmicpc.net/problem/7569)   |   |
+| 7576    | [토마토](https://www.acmicpc.net/problem/7576)   |   |
+| 11724    | [연결 요소의 개수](https://www.acmicpc.net/problem/11724)   |   |
+| 2252    | [줄 세우기](https://www.acmicpc.net/problem/2252)   |   |
+| 14567    | [선수 과목](https://www.acmicpc.net/problem/14567)   |   |
+| 1967    | [트리의 지름](https://www.acmicpc.net/problem/1967)  |   |
 
 <br>
