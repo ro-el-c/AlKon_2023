@@ -11,5 +11,6 @@
 | 1753 | [최단경로](https://www.acmicpc.net/problem/1753)      |                           |
 | 1504 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)      |                           |
 | 2458 | [키 순서](https://www.acmicpc.net/problem/2458)      | [Tistory](https://roel-yomojomo.tistory.com/entry/week7-study-Shortest-Path) |
+| 1956 | [운동](https://www.acmicpc.net/problem/1956)      |                           |
 
 <br>
