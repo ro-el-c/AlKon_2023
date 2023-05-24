@@ -14,5 +14,6 @@
 | 1956 | [운동](https://www.acmicpc.net/problem/1956)      |                           |
 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779)      |                           |
 | 17835 | [면접보는 승범이네](https://www.acmicpc.net/problem/17835)      |                           |
+| 10159 | [저울](https://www.acmicpc.net/problem/10159)      |                           |
 
 <br>
