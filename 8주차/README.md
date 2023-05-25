@@ -1,7 +1,7 @@
 # 8주차 - Segment Tree
 전체적인 문제 풀이는 [Notion](https://ro-el.notion.site/Segment-Tree-34add69c497a43aba77aef5386bc283c)에 작성되며, 표에는 블로그에 게시한 문제만 표시합니다.
 
-> Segment Tree 구현 코드(ver. 구간 합): `SegmentTree.cpp`
+> Segment Tree 구현 코드(ver. 구간 합): [`SegmentTree.cpp`](https://github.com/ro-el-c/AlKon_2023-1/blob/main/8%EC%A3%BC%EC%B0%A8/SegmentTree.cpp)
 
 <br>
 
