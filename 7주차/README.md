@@ -3,6 +3,13 @@
 
 <br>
 
+## Study
+2458 운동 문제 발표를 맡았고, 11779 최소비용 구하기 2 문제를 추가 발표하였습니다.
+
+발표 내용: [7주차 발표](https://roel-yomojomo.tistory.com/entry/week7-study-Shortest-Path)
+
+<br>
+
 ## Problems
 
 | 문제 번호 | 문제 제목        | 문제 풀이                            |
