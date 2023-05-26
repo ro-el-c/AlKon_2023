@@ -13,5 +13,6 @@
 | 11505 | [구간 곱 구하기](https://www.acmicpc.net/problem/11505)      |                           |
 | 10868 | [최솟값](https://www.acmicpc.net/problem/10868)      |                           |
 | 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)      |                           |
+| 14438 | [수열과 쿼리 17](https://www.acmicpc.net/problem/14438)      |                           |
 
 <br>
