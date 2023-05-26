@@ -14,5 +14,6 @@
 | 10868 | [최솟값](https://www.acmicpc.net/problem/10868)      |                           |
 | 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)      |                           |
 | 14438 | [수열과 쿼리 17](https://www.acmicpc.net/problem/14438)      |                           |
+| 14428 | [수열과 쿼리 16](https://www.acmicpc.net/problem/14428)      |                           |
 
 <br>
