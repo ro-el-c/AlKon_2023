@@ -16,5 +16,6 @@
 | 14438 | [수열과 쿼리 17](https://www.acmicpc.net/problem/14438)      |                           |
 | 14428 | [수열과 쿼리 16](https://www.acmicpc.net/problem/14428)      |                           |
 | 2243 | [사탕상자](https://www.acmicpc.net/problem/2243)      |                           |
+| 2517 | [달리기](https://www.acmicpc.net/problem/2517)      |                           |
 
 <br>
