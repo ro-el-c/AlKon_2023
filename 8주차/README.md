@@ -5,6 +5,13 @@
 
 <br>
 
+## Study
+2517 달리기 문제 발표를 맡았습니다.
+
+발표 내용: [8주차 발표](https://roel-yomojomo.tistory.com/entry/week8-study-Segment-Tree)
+
+<br>
+
 ## Problems
 
 | 문제 번호 | 문제 제목        | 문제 풀이                            |
