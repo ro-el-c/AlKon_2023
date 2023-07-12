@@ -12,8 +12,18 @@
 | 5  | Greedy | [5주차](https://www.acmicpc.net/group/workbook/view/17070/57343) | [Notion](https://ro-el.notion.site/4f3fa2e8ad8f4cc9a02835abcdd71fc1)|
 | 6  | DSU, MST | [6주차](https://www.acmicpc.net/group/workbook/view/17070/57573) | [Notion](https://ro-el.notion.site/DSU-MST-f8c861455f2a456695ed6ac05382e5f5)|
 | 7  | 최단 경로 | [7주차](https://www.acmicpc.net/group/workbook/view/17070/57692) | [Notion](https://ro-el.notion.site/Dijkstra-0-1-BFS-Floyd-Warshall-3c44d2871ca742639b012eb0ae43a713)|
-| 7  | Segment Tree | [8주차](https://www.acmicpc.net/group/workbook/view/17070/57990) | [Notion](https://ro-el.notion.site/Segment-Tree-34add69c497a43aba77aef5386bc283c)|
+| 8  | Segment Tree | [8주차](https://www.acmicpc.net/group/workbook/view/17070/57990) | [Notion](https://ro-el.notion.site/Segment-Tree-34add69c497a43aba77aef5386bc283c)|
+
 <br>
+
+## 2023 여름 방학 알고리즘 스터디
+> V_n주차: 여름 방학 n주차 스터디
+
+| 주차 | 주제                  | 그룹 문제집                                                        | 문제 풀이 |
+|----|---------------------|---------------------------------------------------------------|-----------|
+| 1  | Hash | [1주차](https://www.acmicpc.net/group/workbook/view/18276/59396) | |  
+
+<br><br>
 
 ***
 ## Language
