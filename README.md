@@ -1,4 +1,4 @@
-# [AlKon_2023-1](https://www.acmicpc.net/group/workbook/17070)
+# AlKon_2023-1
 ### AlKon 1기 중급 문제 풀이 저장<br><br>
 ***
 
@@ -19,15 +19,27 @@
 ## 2023 여름 방학 알고리즘 스터디
 > SV_n주차: 여름 방학 n주차 스터디
 
-| 주차 | 주제                  | 그룹 문제집                                                        | 문제 풀이 |
-|----|---------------------|---------------------------------------------------------------|-----------|
-| 1  | Hash | [1주차](https://www.acmicpc.net/group/workbook/view/18276/59396) | |  
+| 주차 | 주제                           | 그룹 문제집 / 프로그래머스                                                                                           | 문제 풀이      |
+|----|------------------------------|-----------------------------------------------------------------------------------------------------------|------------|
+| 1  | Hash                         | [1주차](https://www.acmicpc.net/group/workbook/view/18276/59396)                                            |            |  
+| 1  | 2020 KAKAO BLIND RECRUITMENT | [프로그래머스](https://school.programmers.co.kr/learn/challenges?tab=all_challenges&order=recent&partIds=17214) |            |  
+| 1  | Brute Force                  | [3주차](https://www.acmicpc.net/group/workbook/view/18276/59985)                                            | [Notion](https://ro-el.notion.site/0e09a4dc3eeb4c3b9cdbba88c299b04a?pvs=4) |  
 
+```text
+개인 사정으로 여름 방학 1, 2주차 미흡
+추후 보충할  
+```
 <br><br>
 
 ***
 ## Language
-* C++
-* Java<br><br>
+* Java
+* C++<br><br>
+
+## 그룹 문제집 
+* [AlKon 1기](https://www.acmicpc.net/group/workbook/17070)
+* [중급 5팀](https://www.acmicpc.net/group/workbook/18276)
+
 ## Online Judge
 * [Baekjoon](https://www.acmicpc.net/)
+* [Programmers](https://school.programmers.co.kr/learn/challenges?tab=all_challenges&order=recent)
